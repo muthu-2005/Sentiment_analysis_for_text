@@ -1,4 +1,4 @@
-# Sentiment_analysis_for_text
+# Sentiment Analysis For Text
 Sentiment analysis for text is the process of using natural language processing (NLP), text analysis, and computational linguistics to identify and extract subjective information from textual data. The primary goal is to determine the sentiment expressed in the text, which can be categorized as positive, negative, or neutral.
 
 
